@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Source\Source.cpp">
+    <ClCompile Include="..\..\..\..\SchoolRepo%27s\CodeNameGameEngine\Source\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
