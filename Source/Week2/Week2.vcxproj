@@ -20,6 +20,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\SchoolRepo%27s\CodeNameGameEngine\Source\Source.cpp" />
+    <ClCompile Include="..\..\..\..\SchoolRepo%27s\CodeNameGameEngine\Source\Week2\SpecialAbilityComponent.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\SchoolRepo%27s\CodeNameGameEngine\Source\Week2\AbilitiesInterface.h" />
+    <ClInclude Include="..\..\..\..\SchoolRepo%27s\CodeNameGameEngine\Source\Week2\SpecialAbilityComponent.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F442758D-7505-4F61-8CA7-9B7ADA3482BB}</ProjectGuid>
